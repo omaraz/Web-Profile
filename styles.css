@@ -1,0 +1,75 @@
+body{
+  background-color: #1A9FAE;
+
+}
+.a{
+  font-family:  'Kumbh Sans', sans-serif;
+  font-weight: 700;
+  size: 18px;
+  color: black;
+
+}
+.b{
+ font-family: 'Kumbh Sans', sans-serif;
+ font-weight: 400;
+size: 18px;
+ color:hsl(0, 0%, 59%);
+}
+.top{
+  position: absolute;
+  bottom: 29%;
+  right: 50%;
+
+}
+.bot{
+  position: absolute;
+  top: 48%;
+  left: 55%;
+}
+.pattern{
+  position: relative;
+  bottom: 18px;
+  border-radius:25px 25px 0 0;
+}
+.mid{
+  border-radius:25px;
+  background-size: 25% auto;
+  background-color: white;
+  margin: 200px auto 0 37.5%;
+  text-align: center;
+  width: 25%;
+}
+.circluar{
+
+  border-radius: 100%;
+border-style: solid;
+border-color: white;
+border-width: thick;
+  position: relative;
+  bottom:75px;
+}
+table{
+  text-align: center;
+  width: 100%;
+  position: relative;
+  bottom:75px;
+
+}
+hr{
+  position: relative;
+  bottom:75px;
+  margin-bottom: 40px;
+  color:hsl(0, 0%, 59%);
+}
+.upper-table{
+
+  margin-bottom: 25px;
+}
+.name{
+  width: 55%;
+  text-align: right;
+}
+.age{
+  padding-left: 20px;
+  text-align: left;
+}
